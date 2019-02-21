@@ -1,3 +1,5 @@
+# Team 1 Home Page
+
 ## Welcome to your GitHub Page for [DSMHack.Design](http://dsmhack.design)! 
 
 Please update with the goals of your project and what technologies you will be using.
