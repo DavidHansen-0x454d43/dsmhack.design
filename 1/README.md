@@ -1,29 +1,12 @@
-# Team 1 Home Page
+# Iowa Make a Wish Foundation
 
-## Welcome to your GitHub Page for [DSMHack.Design](http://dsmhack.design)! 
+- [Old Site](http://iowa.wish.org)
+- [New Site](109.73.231.179/~jollyhol/)
+- [Admin Login]()
 
-Please update with the goals of your project and what technologies you will be using.
-
-### Markdown
-This page is using [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+## Custom Page Types
+NaME | Price | Active Installs | Rating
+-|-|-
+[Toolset Types](https://wordpress.org/plugins/types/) | Free | 200,000+ | 4/5
+[WP inventory Manager](https://wordpress.org/plugins/wp-inventory-manager/) | Free? | 1000+ | 4.5/5
 
